@@ -1,0 +1,114 @@
+body{
+    background-color: #4F757F;
+    font-family: 'Segoe UI';
+    color: #cff5cf;
+    
+}
+
+ul{
+    margin: 0;
+    padding:0;
+    margin-left: 1200px;
+    text-decoration:none; 
+    
+}
+ 
+li {
+    list-style: none; 
+    margin: 4px;
+    display: inline;
+    text-decoration:none; 
+}
+
+li a {
+    padding: 5px 10px; 
+    margin-top: 20px;
+    color: white;
+    text-decoration:none; 
+}
+
+img, li a{
+    display: inline-block;
+}
+
+img{
+    margin-left: 155px;
+    margin-top: 0px;
+}
+
+#entrar{
+    background-color: #a6cacc;
+    width: 50px;
+    height: 20px;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+}
+
+div{
+    margin-top: 80px;
+    margin-left: 140px;
+    width: 1000px;
+   
+}
+h1{
+     font-size: 55px;
+     font: lighter;
+    
+}
+
+#homem{
+    margin-top: 11px;
+    margin-right: 160px;
+}
+
+input{
+    width: 455px;
+    height: 45px;
+    
+}
+
+#botao{
+    width: 130px;
+    height: 49px;
+    background-color: #a6cacc;
+    color: #000000;
+    border: none;
+}
+#botao{position:relative}
+#botao:hover{top:-5px;}
+
+section{
+    background-color: #a6cacc;
+    width: 1590px;
+    height: 500px;
+    color:  #3b575f;
+    padding-left: 140px;
+    padding-top: 120px;
+}
+
+#imgapp{
+    width: 500px;
+    height: 500px;
+    margin-left: 250px;
+    margin-right: 200px;
+}
+#imgapp{position:relative}
+#imgapp:hover{top:-66px;}
+
+#botao2{
+    width: 100px;
+    height: 45px;
+    background-color:#3b575f ;
+    color: #a6cacc;
+    border: none;
+    border-radius: 3px;
+}
+
+#imgsite{
+    width: 500px;
+    height: 500px;
+   margin-left: 5px;
+}
+#imgsite{position:relative}
+#imgsite:hover{top:-66px;}

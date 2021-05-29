@@ -1,0 +1,33 @@
+#bloco{
+    color: #3b575f;
+    background-color: #a6cacc;
+    width: 600px;
+    margin: auto;
+}
+h2{
+    padding-top: 20px;
+    text-align: center;
+    line-height: 15px;
+}
+#input, #tratamentos{
+    width: 250px;
+    height: 25px;
+}
+p{
+    padding-left: 55px;
+    padding-bottom: 20px;
+}
+#tratamentos{
+    height: 30px;
+
+}
+option{
+   color: black;
+}
+
+#botao-enviar{
+    background-color: #3b575f;
+    color: #a6cacc;
+    margin: auto;
+    border: none;
+}
